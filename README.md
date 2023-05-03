@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 ## About me :tipping_hand_woman: :speech_balloon:
 
 
-### Science :female-scientist: :brain:
+### Science :brain:
 
 Having graduated with a master's degree in psychology, I am currently a Phd student in visual perception and sensomotorics.  
 
