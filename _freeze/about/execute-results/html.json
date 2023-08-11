@@ -1,0 +1,14 @@
+{
+  "hash": "82a3fafe2585ef431339c034303439bc",
+  "result": {
+    "markdown": "---\ntitle: \"About\"\nabout: \"solana\"\nimage: https://github.com/lmwidmayer.png?\nlinks:\n  - icon: github\n    text: Github\n    href: https://github.com/lmwidmayer\n---\n\n\n\n\n## Tech &amp; tools\n\nLanguages and tools that I am working with.  \n\n<div align=\"center\">\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg\" height=\"40\" width=\"52\" alt=\"r logo\" title=\"R\"/>\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg\" height=\"40\" width=\"52\" alt=\"python logo\" title=\"Python\"/>\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg\" height=\"40\" width=\"52\" alt=\"matlab logo\" title=\"Matlab\"/>\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg\" height=\"40\" width=\"52\" alt=\"javascript logo\" title=\"Javascript\"/>\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg\" height=\"40\" width=\"52\" alt=\"latex logo\" title=\"LaTeX\"/>\n  <img src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg\" height=\"40\" width=\"52\" alt=\"git logo\" title=\"Git\"/>\n</div>\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

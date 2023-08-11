@@ -1,0 +1,13 @@
+---
+title: "Research"
+author: "Lisa"
+bibliography: "bib/researchprojects_ref.bib"
+csl: "bib/apa.csl"
+link-citations: true
+---
+
+## Current projects
+
+### A peek into the dark (PhD)
+
+In my PhD at [Alexander Schütz' group of _Sensomotoric learning_](https://www.uni-marburg.de/en/fb04/team-schuetz), I am "filling in black holes" [@Cicchini_2019] of the human visual system. Under dim-light conditions, the adapted eye receives information only from rod receptors while the cone receptors are inactive. Due to the absence of rods in the foveal region (_rod scotoma_), there is no veridical input from the very centre of the visual field. Yet, this "gap" is usually not noticed and perceptually even treated with high confidence [@Gloriani_Schuetz_2019]. This phenomenon has been termed _perceptual completion_ or _filling-in_. My objective is to investigate _what_ exactly is filled-in and _how_ people perceive it.  

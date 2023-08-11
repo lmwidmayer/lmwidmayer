@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  freeze: auto
+
+website:
+  title: "lmwidmayer"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: researchprojects.qmd
+        text: Research
+      - href: codeprojects.qmd
+        text: Code
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

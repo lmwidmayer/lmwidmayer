@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "print(\"Hello world! Here I am...\")\n\n[1] \"Hello world! Here I am...\""
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "codeprojects.html",
+    "href": "codeprojects.html",
+    "title": "Code",
+    "section": "",
+    "text": "datafairy: A data fairy to grant you minimalist data handling wishes. A collection of code snippets, mainly for my personal use."
+  },
+  {
+    "objectID": "codeprojects.html#r",
+    "href": "codeprojects.html#r",
+    "title": "Code",
+    "section": "",
+    "text": "datafairy: A data fairy to grant you minimalist data handling wishes. A collection of code snippets, mainly for my personal use."
+  },
+  {
+    "objectID": "index.html#hello-world",
+    "href": "index.html#hello-world",
+    "title": "Home",
+    "section": "",
+    "text": "{\n  \"name\": \"Lisa\"\n}\n\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-pages",
+    "href": "index.html#welcome-to-my-pages",
+    "title": "Home",
+    "section": "Welcome to my pages!",
+    "text": "Welcome to my pages!\n\n{\n  \"name\": \"Lisa\",\n  \"profession\": [\"PhD student\", \"Researcher\"],\n  \"degree\": [\"B.Sc. Psychology\", \"M.Sc. Psychology\"],\n  \"interest\": [\"Cognition\", \"Perception\", \"Sensomotorics\", \"Programming\"]\n}"
+  },
+  {
+    "objectID": "about.html#tech-tools",
+    "href": "about.html#tech-tools",
+    "title": "About",
+    "section": "",
+    "text": "Languages and tools that I am working with."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Languages and tools that I am working with."
+  },
+  {
+    "objectID": "researchprojects.html#poster",
+    "href": "researchprojects.html#poster",
+    "title": "Research",
+    "section": "Poster",
+    "text": "Poster"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "Contact",
+    "text": "Contact\n\nGithub"
+  },
+  {
+    "objectID": "index.html#find-me",
+    "href": "index.html#find-me",
+    "title": "Home",
+    "section": "",
+    "text": "print(\"Hello world! Here I am...\")\n\n[1] \"Hello world! Here I am...\""
+  },
+  {
+    "objectID": "index.html#here-i-am",
+    "href": "index.html#here-i-am",
+    "title": "Home",
+    "section": "Here I am",
+    "text": "Here I am\n\n  \n\n\n{\n  \"name\": \"Lisa\",\n  \"profession\": [\"PhD student\", \"Researcher\"],\n  \"degree\": [\"B.Sc. Psychology\", \"M.Sc. Psychology\"],\n  \"interest\": [\"Cognition\", \"Perception\", \"Sensomotorics\", \"Programming\"]\n}"
+  },
+  {
+    "objectID": "researchprojects.html",
+    "href": "researchprojects.html",
+    "title": "Research",
+    "section": "",
+    "text": "In my PhD at Alexander Schütz’ group of Sensomotoric learning, I am “filling in black holes” (Cicchini, 2019) of the human visual system. Under dim-light conditions, the adapted eye receives information only from rod receptors while the cone receptors are inactive. Due to the absence of rods in the foveal region (rod scotoma), there is no veridical input from the very centre of the visual field. Yet, this “gap” is usually not noticed and perceptually even treated with high confidence (Gloriani & Schütz, 2019). This phenomenon has been termed perceptual completion or filling-in. My objective is to investigate what exactly is filled-in and how people perceive it."
+  },
+  {
+    "objectID": "researchprojects.html#current-projects",
+    "href": "researchprojects.html#current-projects",
+    "title": "Research",
+    "section": "",
+    "text": "In my PhD at Alexander Schütz’ group of Sensomotoric learning, I am “filling in black holes” (Cicchini, 2019) of the human visual system. Under dim-light conditions, the adapted eye receives information only from rod receptors while the cone receptors are inactive. Due to the absence of rods in the foveal region (rod scotoma), there is no veridical input from the very centre of the visual field. Yet, this “gap” is usually not noticed and perceptually even treated with high confidence (Gloriani & Schütz, 2019). This phenomenon has been termed perceptual completion or filling-in. My objective is to investigate what exactly is filled-in and how people perceive it."
+  }
+]
