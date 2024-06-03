@@ -9,19 +9,18 @@ website:
   title: "lmwidmayer"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - href: about.qmd
+        text: About
       - href: researchprojects.qmd
         text: Research
       - href: codeprojects.qmd
         text: Code
-      - href: about.qmd
-        text: About
+      
 
 format:
   html:
     theme: minty
-    css: styles.css
+    css: resources/styles.css
     toc: true
 
 

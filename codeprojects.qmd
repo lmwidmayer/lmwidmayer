@@ -1,11 +1,11 @@
 ---
 title: "Code"
 subtitle: "Code projects"
-author: "Lisa"
 abstract: |
   A selection of projects that I have been working on.
 ---
 
 ## R
 
-- [`datafairy`](https://github.com/lmwidmayer/datafairy): A data fairy to grant you minimalist data handling wishes. A collection of code snippets, mainly for my personal use.
+- [`datafairy`](https://github.com/lmwidmayer/datafairy): A data fairy to grant you minimalist data handling wishes. A collection of code snippets created during an R course.
+- [`ggerrobard`](https://github.com/lmwidmayer/ggerrorbard): Plot diagonal error bars with ggplot2.

@@ -1,6 +1,5 @@
 ---
 title: "Home"
-author: "Lisa"
 date-modified: today
 ---
 

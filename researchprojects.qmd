@@ -1,8 +1,7 @@
 ---
 title: "Research"
-author: "Lisa"
 bibliography: "bib/researchprojects_ref.bib"
-csl: "bib/apa.csl"
+csl: "resources/apa.csl"
 link-citations: true
 ---
 
