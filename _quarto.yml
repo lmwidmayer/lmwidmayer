@@ -9,7 +9,7 @@ website:
   title: "lmwidmayer"
   navbar:
     left:
-      - href: about.qmd
+      - href: index.qmd
         text: About
       - href: researchprojects.qmd
         text: Research

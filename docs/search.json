@@ -30,8 +30,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "About",
     "section": "",
-    "text": "print(\"Hello world! Here I am...\")\n\n[1] \"Hello world! Here I am...\""
+    "text": "print(\"Hello world!\")\n\n[1] \"Hello world!\""
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact"
   }
 ]
