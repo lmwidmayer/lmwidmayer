@@ -1,0 +1,44 @@
+# R
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto
+
+/.quarto/
+
+
+# Latex
+
+.sav
+.bak
+.tmp
+
+*.bak
+*.sav.tmp
+*.sav
+
+
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+## Intermediate documents:
+*.dvi
+*.xdv
+*-converted-to.*
+
+
+# folders starting with .
+.*/
