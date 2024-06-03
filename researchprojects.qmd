@@ -1,6 +1,6 @@
 ---
 title: "Research"
-bibliography: "bib/researchprojects_ref.bib"
+bibliography: "resources/researchprojects_ref.bib"
 csl: "resources/apa.csl"
 link-citations: true
 ---
